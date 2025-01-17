@@ -9,9 +9,7 @@ Plans:
 - Add Family Guy to the background :heart_eyes:
 - Add subway surfers gameplay selection using AI :boom:
 - Add sounds to the app :speaker:
-
-<p align="center">
- <img width="1099px" src="img/png" alt="Program operation"/>
-</p>
+https://github.com/ExodusOfGraf/TikTokBall
+![Image alt](https://github.com/ExodusOfGraf/TikTokBall)/raw/origin/img/1.png)
 
 :exclamation: TikTokBall in beta test for now :exclamation:
