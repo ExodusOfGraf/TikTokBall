@@ -10,5 +10,8 @@ Plans:
 - Add subway surfers gameplay selection using AI :boom:
 - Add sounds to the app :speaker:
 
+<p align="center">
+ <img width="1099px" src="img/png" alt="Program operation"/>
+</p>
 
 :exclamation: TikTokBall in beta test for now :exclamation:
