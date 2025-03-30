@@ -11,6 +11,6 @@ Plans:
 - Add subway surfers gameplay selection using AI :boom:
 - Add sounds to the app :speaker:
 
-![Image alt](https://github.com/ExodusOfGraf/TikTokBall/raw/origin/img/1.png)
+![1](https://github.com/user-attachments/assets/df22ce13-c0df-4573-a727-cf95e6f70b5c)
 
 :exclamation: TikTokBall in beta test for now :exclamation:
